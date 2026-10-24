@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#e9f3eb"/>
+  <circle cx="300" cy="170" r="115" fill="#d1e5d5"/>
+  <path d="M190 175 H410 L390 300 H210 Z" fill="#b77843"/>
+  <path d="M190 175 Q300 205 410 175" fill="none" stroke="#80502f" stroke-width="10"/>
+  <rect x="225" y="110" width="60" height="70" rx="8" fill="#f0a35b"/>
+  <rect x="300" y="90" width="65" height="90" rx="8" fill="#fffaf0"/>
+  <rect x="325" y="80" width="15" height="20" fill="#28664f"/>
+  <circle cx="370" cy="145" r="27" fill="#e6c66b"/>
+  <text x="300" y="350" font-family="Arial" font-size="24"
+        text-anchor="middle" fill="#194735">Campanha do Alimento</text>
+</svg>

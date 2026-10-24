@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#fff4e5"/>
+  <circle cx="300" cy="170" r="120" fill="#ffe2bd"/>
+  <path d="M185 185 H415 L390 300 H210 Z" fill="#b77843"/>
+  <path d="M215 185 Q300 65 385 185" fill="none"
+        stroke="#80502f" stroke-width="15"/>
+  <rect x="220" y="115" width="65" height="75" rx="8" fill="#f0a35b"/>
+  <rect x="290" y="95" width="65" height="95" rx="8" fill="#fffaf0"/>
+  <circle cx="370" cy="155" r="28" fill="#d99a47"/>
+  <text x="300" y="350" font-family="Arial" font-size="24"
+        text-anchor="middle" fill="#194735">Cesta Solidária</text>
+</svg>

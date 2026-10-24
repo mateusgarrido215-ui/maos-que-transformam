@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#e9f3eb"/>
+  <circle cx="300" cy="175" r="120" fill="#d1e5d5"/>
+  <circle cx="230" cy="140" r="35" fill="#bd805b"/>
+  <circle cx="370" cy="140" r="35" fill="#8c583b"/>
+  <circle cx="300" cy="115" r="38" fill="#e6b78f"/>
+  <path d="M165 255 Q170 180 230 180 Q290 180 295 255 Z" fill="#28664f"/>
+  <path d="M305 255 Q310 180 370 180 Q430 180 435 255 Z" fill="#f0a35b"/>
+  <path d="M235 260 Q240 165 300 165 Q360 165 365 260 Z" fill="#548a68"/>
+  <text x="300" y="340" font-family="Arial" font-size="24"
+        text-anchor="middle" fill="#194735">Rede de Voluntários</text>
+</svg>
